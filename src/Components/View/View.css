@@ -7,8 +7,9 @@
   width: 70vw;
 }
 .viewParentDiv .imageShowDiv img {
-  width: 52vw;
+  width: 55vw;
   height: 85vh;
+  object-fit: contain;
 }
 
 .viewParentDiv .rightSection {

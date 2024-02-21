@@ -85,7 +85,7 @@ export default function Signup() {
           <br />
           <button>Signup</button>
         </form>
-        <a>Login</a>
+        <a href='/login' className='link_login'>Login</a>
       </div>
     </div>
   );
